@@ -39,7 +39,6 @@ def process(inputfile, outputdirectory, blur_radius):
 	shutil.rmtree(temp_directory)
 
 
-
 def error_input():
 	print "Erreur, l'outil s'utilise comme suit : "
 	print __file__+' -i <inputfile> -o <output_directory> [-b <blur_radius>]'

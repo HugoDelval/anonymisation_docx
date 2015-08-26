@@ -1,7 +1,3 @@
-# Présentation
-
-Ce projet permet de flouter les images d'un docx. Il est utilisable en standalone (fichier *doc_a_anonymiser*) ou via une application Django.
-
 # Utilisation
 ## Commande
 
